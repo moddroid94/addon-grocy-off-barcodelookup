@@ -1,2 +1,2 @@
 <?php
-# Yeah it is an empty file ;)
+Setting('STOCK_BARCODE_LOOKUP_PLUGIN', 'DemoBarcodeLookupPlugin');
